@@ -1,0 +1,5 @@
+﻿Nama,Gaji Pokok,Lembur,Potongan Telat,BPJS,PPh21,Take Home Pay,Status,Keterangan
+Andi,7000000,450000,0,280000,150000,7020000,Normal,-
+Sari,5400000,3900000,50000,216000,0,9034000,Anomali,Lembur tidak wajar; PPh21 harusnya tidak nol
+Tono,4800000,0,0,192000,0,4608000,Anomali,Gaji di bawah UMP DKI 2026
+Rina,9500000,0,1200000,380000,420000,7500000,Anomali,Potongan keterlambatan sangat besar
